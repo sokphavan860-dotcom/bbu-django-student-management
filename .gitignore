@@ -80,3 +80,5 @@ dist/
 # Temporary & Antigravity/Agent Files
 scratch/
 .gemini/
+
+/venv312/
